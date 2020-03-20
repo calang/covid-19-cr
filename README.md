@@ -33,6 +33,18 @@ O sea, ¡hay que ponerse las pilas para evitar los contactos!
 
 Cuando uno está en la cumbre de una montaña rusa, a punto de bajar en una cuesta extrema, se asusta a pesar de estar casi quieto. Creo que nuestra sociedad no ha reaccionado por que se siente a baja velocidad y no ha tenido disponible una imagen de hacia donde nos dirigimos. Pero ¡la alta velocidad está a punto de comenzar! Tenemos que quedarnos en la casa para bajar esa velocidad y permitir a nuestro sistema de salud seguir funcionando.
 
+## En números concretos
+Así se vería la proyección anterior en forma tabular.
+
+Los primeros tres días hacia adelante nos dan una idea de la exactitud de la predicción.
+
+Las filas siguientes, de la consecuencias si no cambiamos nuestros comportamientos como sociedad.
+
+<br>
+
+![image](img/image_proy17.png)
+
+
 ## Método empleado
 Para los interesados, las hojas de cálculo adjuntas, en formato excel o en formato abierto, muestran como se hizo la proyección.
 
