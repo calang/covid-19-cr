@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77d873f3-bf6c-4e8c-8e30-825b752d7918" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cálculos/.~lock.covid19-cr.ods#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cálculos/covid19-cr.ods" beforeDir="false" afterPath="$PROJECT_DIR$/cálculos/covid19-cr.ods" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +38,25 @@
       <option name="presentableId" value="Default" />
       <updated>1584718432866</updated>
     </task>
+    <task id="LOCAL-00001" summary="agregué cálculos y tabla de proyecciones">
+      <created>1584723171713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584723171713</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="agregué cálculos y tabla de proyecciones" />
+    <option name="LAST_COMMIT_MESSAGE" value="agregué cálculos y tabla de proyecciones" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="632" y="95" width="777" height="847" key="CommitChangelistDialog2" timestamp="1584723171590">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state x="632" y="95" width="777" height="847" key="CommitChangelistDialog2/0.27.1920.998@0.27.1920.998" timestamp="1584723171590" />
     <state x="1259" y="27" width="651" height="998" key="MarkdownNavigator.PasteImageDialog" timestamp="1584722877516">
       <screen x="0" y="27" width="1920" height="998" />
     </state>
@@ -48,5 +65,9 @@
       <screen x="0" y="27" width="1920" height="998" />
     </state>
     <state x="337" y="170" width="1371" height="730" key="SettingsEditor/0.27.1920.998@0.27.1920.998" timestamp="1584720607202" />
+    <state x="620" y="255" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1584723179061">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state x="620" y="255" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.998@0.27.1920.998" timestamp="1584723179061" />
   </component>
 </project>
