@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77d873f3-bf6c-4e8c-8e30-825b752d7918" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZOmIGcS9iGcGBVz1Vpie7KgBD7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Markdown" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77d873f3-bf6c-4e8c-8e30-825b752d7918" name="Default Changelist" comment="" />
+      <created>1584718432866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584718432866</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1259" y="27" width="651" height="998" key="MarkdownNavigator.PasteImageDialog" timestamp="1584721170984">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state x="1259" y="27" width="651" height="998" key="MarkdownNavigator.PasteImageDialog/0.27.1920.998@0.27.1920.998" timestamp="1584721170984" />
+    <state x="337" y="170" width="1371" height="730" key="SettingsEditor" timestamp="1584720607202">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state x="337" y="170" width="1371" height="730" key="SettingsEditor/0.27.1920.998@0.27.1920.998" timestamp="1584720607202" />
+  </component>
+</project>
